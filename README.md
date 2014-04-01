@@ -1,2 +1,2 @@
-Calculadora-Equa--o-2--grau
+Equacao-2-grau
 ===========================
